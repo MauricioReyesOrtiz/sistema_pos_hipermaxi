@@ -1,4 +1,18 @@
-link del video:
-https://www.youtube.com/watch?v=_pJqMxvJfF8&list=PLRheCL1cXHrsh6xqxCnmoMlx5PxNuGs1v&index=5
 
-me quede en el minuto 12:50
+Base de datos
+
+--tablas:
+
+tabla product(
+id
+category_id
+name
+description
+price
+quantity
+image
+status
+created_at)
+
+
+
